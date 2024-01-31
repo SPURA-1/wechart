@@ -7,3 +7,6 @@ import service from "@/utils/request"
 export function getlandscapeImages(params) {
     return service.get('/homePage/getlandscapeImages', params);
 }
+
+// 导出 service 对象
+// export default service;
