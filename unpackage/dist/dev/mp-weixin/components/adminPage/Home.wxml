@@ -1,0 +1,1 @@
+<view><view><carousel vue-id="6e838a7b-1" items="{{carouselItems}}" autoplay="{{true}}" indicator-dots="{{true}}" bind:__l="__l"></carousel></view></view>
